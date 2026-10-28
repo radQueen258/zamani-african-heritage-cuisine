@@ -34,7 +34,7 @@ From exploring traditional African dishes to discovering the restaurant's identi
 
 <div align="center">
 
-<img src="assets/zamani-homepage.png" alt="Zamani Website Homepage" width="100%" />
+<img src="Zamani-AUMA.png" alt="Zamani Website Homepage" width="100%" />
 
 *The Zamani African Heritage Kitchen digital experience.*
 
