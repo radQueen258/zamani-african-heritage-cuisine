@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/auma-logo.png" alt="AUMA Logo" width="220" />
+<img src="06_AUMA_Logo_With_Slogan.png" alt="AUMA Logo" width="220" />
 
 ### AN AUMA TEAM DIGITAL EXPERIENCE
 
